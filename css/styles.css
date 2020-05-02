@@ -129,3 +129,10 @@ hr {
 .BUTTON_ZLT:hover{
 background-color: #11999E;
 }
+
+
+.img-mountain{
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
